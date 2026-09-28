@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">CONTRIBUTION SNAKE</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-0709/Aditya-0709/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
