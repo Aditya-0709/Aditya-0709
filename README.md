@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<img src="./game.gif" width="100%">
+
+</div>
+
+<div align="center">
+
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-0709&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"
   width="95%"
