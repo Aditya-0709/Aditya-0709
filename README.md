@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 </p>
 
 ---
+<div align="center">
+<a href="https://leetcode.com/Aditya_Garg_0709/">
+  <img src="https://leetcard.jacoblin.cool/Aditya_Garg_0709?theme=dark&font=Karma&ext=heatmap" width="85%"/>
+</a>
+
+</div>
 
 # Contribution Activity
 
