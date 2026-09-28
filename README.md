@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 <div align="center">
 <a href="https://leetcode.com/Aditya_Garg_0709/">
-  <img src="https://leetcard.jacoblin.cool/Aditya_Garg_0709?theme=dark&font=Karma&ext=heatmap" width="85%"/>
+  <img src="https://leetcard.jacoblin.cool/Aditya_Garg_0709?theme=dark&font=Karma&ext=heatmap" width="55%"/>
 </a>
 
 </div>
