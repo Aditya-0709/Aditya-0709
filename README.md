@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Aditya-0709/Aditya-0709/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="95%"
+/>
+
+</div>
