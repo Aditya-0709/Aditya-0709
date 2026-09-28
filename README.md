@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<h2 align="center">CONTRIBUTION SNAKE</h2>
 
-<img
-  src="https://raw.githubusercontent.com/Aditya-0709/Aditya-0709/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  width="95%"
-/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-0709/Aditya-0709/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
+</p>
