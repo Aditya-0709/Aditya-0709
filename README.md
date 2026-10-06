@@ -3,9 +3,9 @@
 
 # Hey, I'm Aditya Garg 👋
 
-### 💻 Backend Developer | Java Enthusiast | DSA Learner
+### ☕ Java Programmer | 🧠 DSA Learner | 🚀 Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+%7C+Spring+Boot+%7C+REST+APIs;Data+Structures+%26+Algorithms;Building+Projects+%26+Solving+Problems;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+Programmer;Data+Structures+%26+Algorithms;Solving+Problems+on+LeetCode;Always+Learning+Something+New!" />
 
 <br/>
 
@@ -13,20 +13,16 @@
 <img src="https://img.shields.io/badge/Focus-Backend%20Development-success?style=for-the-badge&logo=springboot&logoColor=white" />
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aditya-0709&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science / IT Engineering student at **Chandigarh University**
+- 🎓 Computer Science Engineering student at **Chandigarh University**
 - 💻 Interested in **Backend Development and Software Engineering**
 - ☕ Learning and building applications using **Java & Spring Boot**
 - 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🚀 Exploring **REST APIs, Databases & System Design**
 - 📚 Strengthening my knowledge of **Operating Systems, DBMS, OOP & Computer Networks**
 - 🎯 Preparing for **Software Development Engineer (SDE) opportunities**
 - ⚡ Fun fact: I enjoy solving challenging coding problems and exploring new technologies.
