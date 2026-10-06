@@ -28,6 +28,15 @@
 - ⚡ Fun fact: I enjoy solving challenging coding problems and exploring new technologies.
 
 ---
+## 🎯 My Goals
+
+- 🚀 Build scalable backend applications
+- 🧠 Improve problem-solving skills through DSA
+- 💻 Contribute to open-source projects
+- 📚 Strengthen core computer science fundamentals
+- 🤝 Collaborate with other developers
+- 🎯 Prepare for software engineering opportunities
+---
 
 ## 🛠️ Tech Stack
 
@@ -177,16 +186,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-0709&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
 ## 🎮 My GitHub Contribution Game
 
 <p align="center">
@@ -197,48 +196,12 @@
   <sub>
     🚀 My GitHub contribution graph turned into a Space Shooter game
     <br>
-    Powered by
-    <a href="https://github.com/czl9707/gh-space-shooter">
-      gh-space-shooter
-    </a>
+   
   </sub>
 </p>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-0709&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
-☕ Java & Spring Boot
-🧠 Data Structures and Algorithms
-🗄️ SQL & Database Management
-⚙️ Backend Development
-🌐 REST API Development
-🏗️ System Design Fundamentals
-```
-
----
-
-## 🎯 My Goals
-
-- 🚀 Build scalable backend applications
-- 🧠 Improve problem-solving skills through DSA
-- 💻 Contribute to open-source projects
-- 📚 Strengthen core computer science fundamentals
-- 🤝 Collaborate with other developers
-- 🎯 Prepare for software engineering opportunities
-
----
 
 ## 🤝 Connect With Me
 
