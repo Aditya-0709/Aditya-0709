@@ -114,24 +114,40 @@
 ---
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/Aditya-0709">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya-0709&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aditya's GitHub Stats" />
-</a>
-<a href="https://github.com/Aditya-0709">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0709&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Aditya-0709&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="Aditya's GitHub Stats"
+        height="180"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0709&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+        alt="Most Used Languages"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/Aditya-0709">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Aditya-0709&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</a>
+<img
+  src="https://streak-stats.demolab.com?user=Aditya-0709&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+  width="70%"
+/>
 
 </div>
+
 
 
 ---
