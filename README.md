@@ -139,12 +139,15 @@
 </table>
 
 <br/>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=Aditya-0709&theme=tokyonight"
+      alt="GitHub Streak Stats"
+    />
+  </a>
+</p>
 
-<img
-  src="https://streak-stats.demolab.com?user=Aditya-0709&theme=tokyonight&hide_border=true"
-  alt="GitHub Contribution Streak"
-  width="70%"
-/>
 
 </div>
 
