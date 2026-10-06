@@ -61,52 +61,55 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 </p>
 
-### 🧠 Core Computer Science
+---
 
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems
-Computer Networks
-Software Engineering
-System Design
-```
+<h2 align="center">FEATURED PROJECTS</h2>
 
 ---
 
-## 🚀 Featured Projects
+<details>
+  <summary><strong>🔨 Online Auction System</strong></summary>
 
-### 🔨 Online Auction System API
+  <br>
 
-A backend REST API for an online auction platform developed using Java and Spring Boot.
+  A Java-based auction platform for managing auction items, categories, and bidding.
 
-**Features:**
+  **Key Features**
+  - User authentication
+  - Category management
+  - Auction item management
+  - Bidding functionality
+  - Layered architecture
 
-- 🔐 Authentication module
-- 📂 Category management
-- 🏷️ Auction item management
-- 💰 Bidding functionality
-- 🏗️ Layered architecture
-- 🛡️ Security implementation (in progress)
+  **Tech Stack:** Java · Spring Boot · REST APIs · Maven
 
-**Tech Stack:** Java | Spring Boot | REST APIs | Maven
+  **Repository:** [View Project](https://github.com/Aditya-0709/Online-Auction-System)
 
-### 📚 Data Structures & Algorithms
+</details>
 
-A collection of my DSA solutions and coding practice in Java.
+<br>
 
-- Arrays and Strings
-- Searching and Sorting
-- Hashing
-- Recursion
-- Problem-solving techniques
+<details>
+  <summary><strong>🧠 Data Structures & Algorithms</strong></summary>
 
-<p align="left">
-  <a href="https://github.com/Aditya-0709/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-0709&repo=DSA&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+  <br>
+
+  A collection of my Java solutions and DSA practice problems.
+
+  **Topics Covered**
+  - Arrays and Strings
+  - Searching and Sorting
+  - Hashing
+  - Recursion
+  - Binary Search
+
+  **Language:** Java
+
+  **Repository:** [View DSA Solutions](https://github.com/Aditya-0709/DSA)
+
+</details>
+
+
 
 ---
 
